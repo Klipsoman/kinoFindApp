@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kinoFindApp/static/css/main.f54b9038.chunk.css",
-    "main.js": "/kinoFindApp/static/js/main.696820a9.chunk.js",
-    "main.js.map": "/kinoFindApp/static/js/main.696820a9.chunk.js.map",
+    "main.css": "/kinoFindApp/static/css/main.6cb3d702.chunk.css",
+    "main.js": "/kinoFindApp/static/js/main.1f4d51c2.chunk.js",
+    "main.js.map": "/kinoFindApp/static/js/main.1f4d51c2.chunk.js.map",
     "runtime-main.js": "/kinoFindApp/static/js/runtime-main.c49f6d94.js",
     "runtime-main.js.map": "/kinoFindApp/static/js/runtime-main.c49f6d94.js.map",
-    "static/js/2.4aafe293.chunk.js": "/kinoFindApp/static/js/2.4aafe293.chunk.js",
-    "static/js/2.4aafe293.chunk.js.map": "/kinoFindApp/static/js/2.4aafe293.chunk.js.map",
+    "static/js/2.4c566f55.chunk.js": "/kinoFindApp/static/js/2.4c566f55.chunk.js",
+    "static/js/2.4c566f55.chunk.js.map": "/kinoFindApp/static/js/2.4c566f55.chunk.js.map",
     "index.html": "/kinoFindApp/index.html",
-    "static/css/main.f54b9038.chunk.css.map": "/kinoFindApp/static/css/main.f54b9038.chunk.css.map",
-    "static/js/2.4aafe293.chunk.js.LICENSE.txt": "/kinoFindApp/static/js/2.4aafe293.chunk.js.LICENSE.txt"
+    "static/css/main.6cb3d702.chunk.css.map": "/kinoFindApp/static/css/main.6cb3d702.chunk.css.map",
+    "static/js/2.4c566f55.chunk.js.LICENSE.txt": "/kinoFindApp/static/js/2.4c566f55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c49f6d94.js",
-    "static/js/2.4aafe293.chunk.js",
-    "static/css/main.f54b9038.chunk.css",
-    "static/js/main.696820a9.chunk.js"
+    "static/js/2.4c566f55.chunk.js",
+    "static/css/main.6cb3d702.chunk.css",
+    "static/js/main.1f4d51c2.chunk.js"
   ]
 }
